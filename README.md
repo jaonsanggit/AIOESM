@@ -10,7 +10,7 @@ A indoor sensor module Integrating environmental sensors based on [raspiberry pi
 
 - [IO_Expansion_HAT](http://wiki.dfrobot.com.cn/index.php?title=(SKU:DFR0566)IO_Expansion_HAT_for_Raspberry_Pi)
 
-- [HCHO](http://wiki.dfrobot.com.cn/index.php?title=(SKU:SEN0231)%E7%94%B2%E9%86%9B%E4%BC%A0%E6%84%9F%E5%99%A8)
+- [HCHO](https://www.winsensor.com/products/mozu/hbmz/ZE08_CH2Ojqcgqmz_206.html)
 
 - [CO2](https://www.winsensor.com/hongwai/MH_Z16hwCO2xmz_34.html)
 
