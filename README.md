@@ -2,7 +2,7 @@
 all in one environmental sensor module
 Integrated environmental sensors based on [raspiberry pi4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) and [IO_Expansion_HAT](http://wiki.dfrobot.com.cn/index.php?title=(SKU:DFR0566)IO_Expansion_HAT_for_Raspberry_Pi)
 
-#Hardware
+## Hardware
 
 - [raspiberry pi4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 
